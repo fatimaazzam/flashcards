@@ -3,6 +3,16 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/flashcards/cards/forms.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/flashcards/cards/models.py">
           <value>
             <set />
@@ -23,7 +33,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/flashcards/cards/templates/cards/box.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/flashcards/cards/templates/cards/box_links.html">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/flashcards/cards/templates/cards/card.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/flashcards/cards/templates/cards/card_check_form.html">
           <value>
             <set />
           </value>
@@ -39,6 +64,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/flashcards/cards/templates/cards/navigation.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/flashcards/cards/templatetags/cards_tags.py">
           <value>
             <set />
           </value>

@@ -1,4 +1,6 @@
-<!-- cards/templates/cards/navigation.html -->
+<!-- cards/templates/navigation.html -->
+{% load cards_tags %}
 <nav>
     <a href="{% url 'card-list' %}">🗂 All Cards</a>
+    {% boxes_as_links %}
 </nav>
